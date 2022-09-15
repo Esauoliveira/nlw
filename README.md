@@ -4,7 +4,7 @@
 
 > Trila Explorer 
 
-Projeto conruído do evento Next Level Week da Rocketseat 
+Projeto construído do evento Next Level Week da Rocketseat 
 
 [Clique aqui para acessar](https://esauoliveira.github.io/nlw/) 
 
