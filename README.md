@@ -1,3 +1,6 @@
+![preview](./.github/preview.jpeg)
+
+
 # HTML
 - HypertText
     - Textos puros, livros, revistas, jornais;
@@ -124,3 +127,8 @@ A partir disso, o HTML é impactado visualmente.
 - One shot: uma única pergunta sem muito contexto
 - Few shot: é apresentado exemplos do que se espera
 - Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução.
+
+
+## Contato 
+
+esauoliveiraz@gmail.com
